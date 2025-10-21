@@ -1,0 +1,8 @@
+Character GoTo 5 -5 0.0 _
+Character Idle 5.05
+Character LookAround 3.28
+Character 
+Character_01 GoTo 5 5 0.0 _
+Character_01 Idle 5.32
+Character_01 LookAround 3.26
+Character_01 
